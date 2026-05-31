@@ -42,7 +42,8 @@ z 5 klas stronniczości politycznej:
 
 | Metryka | Wartość |
 |---|---|
-| Accuracy | ~% |
-| Precision (macro) | ~% |
-| Recall (macro) | ~% |
+| Accuracy | 60 % |
+| Precision (macro) | 78 % |
+| Recall (macro) |  33 % |
+| F1-score (macro) |  36 % |
 
