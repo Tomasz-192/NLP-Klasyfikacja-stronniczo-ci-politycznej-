@@ -72,13 +72,10 @@ nawet jeśli tych klas jest niewiele w danych.
 
    
  | miara | precision  |   recall | f1-score  | support |
- |---|---|---|---|---| 
-    
-  | klasa | precision  |   recall | f1-score  | support |
- |---|---|---|---|---|
- |accuracy |   |    |  0.60  |    1142
-   macro avg       0.78      0.33      0.36      1142
-weighted avg       0.68      0.60      0.51      1142
+ |---|---|---|---|---|    
+ |accuracy |   |    |  0.60  |  142
+ |macro avg | 0.78 | 0.33 | 0.36 |  1142
+ |weighted avg | 0.68 |  0.60  | 0.51 |  1142
 
 ---
 
