@@ -65,10 +65,10 @@ nawet jeśli tych klas jest niewiele w danych.
  | klasa | precision  |   recall | f1-score  | support |
  |---|---|---|---|---|
  |center | 1.00  |    0.37 |     0.54 |  117|
- |lean left | 0.82  |    0.13  |    0.23 | 172
-  lean right       1.00      0.04      0.07        78
-        left       0.58      0.97      0.72       607
-       right       0.51      0.15      0.23       168
+ |lean left | 0.82  |   0.13  |    0.23 | 172
+ | lean right | 1.00 |  0.04  |    0.07   | 78
+ | left  | 0.58  |    0.97  |    0.72   |    607
+ | right  |  0.51  | 0.15   | 0.23   |    168
 
     accuracy                           0.60      1142
    macro avg       0.78      0.33      0.36      1142
